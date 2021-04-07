@@ -12,3 +12,6 @@ This project is created as basic introduction about the site owner, I used guess
 # Reflections and Comments
 * In lab 02 i create the site and added the basic features of the site like y/n questions and the welcoming message.
 * In lab 03 i added more features like guessing questions and the user score.
+
+## I was Navigator on: https://github.com/AhmadShalein/About-Me/pull/1
+## I was Driver on: https://github.com/AhmadShalein/About-Me/pull/1
