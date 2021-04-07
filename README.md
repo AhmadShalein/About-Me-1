@@ -14,4 +14,4 @@ This project is created as basic introduction about the site owner, I used guess
 * In lab 03 i added more features like guessing questions and the user score.
 
 ## I was Navigator on: https://github.com/AhmadShalein/About-Me/pull/1
-## I was Driver on: https://github.com/AhmadShalein/About-Me/pull/1
+## I was Driver on: https://github.com/KhalilGhanem/About-Me/pull/1
